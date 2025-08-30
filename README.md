@@ -8,7 +8,6 @@ Welcome to my GitHub! This repository is all about me 🚀
 - 💼 Data Engineer with 4+ years of experience  
 - 🌐 Currently working at Deloitte USI 
 - ☁️ Skilled in **Azure, Databricks, PySpark, BigQuery, Kafka**  
-- 🎯 Goal: Senior Data Engineer role (30 LPA target)  
 - 📍 Based in Pune, originally from Ahmedabad  
 
 ---
