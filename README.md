@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Jeet 👋  
 
-<!--
-**jeetdhanesha2305/jeetdhanesha2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! This repository is all about me 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 💼 Data Engineer with 4+ years of experience  
+- 🌐 Currently working at Deloitte USI 
+- ☁️ Skilled in **Azure, Databricks, PySpark, BigQuery, Kafka**  
+- 🎯 Goal: Senior Data Engineer role (30 LPA target)  
+- 📍 Based in Pune, originally from Ahmedabad  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, Scala (basics)  
+- **Data Engineering:** PySpark, Delta Lake, Kafka, Databricks  
+- **Cloud:** Azure (ADF, Synapse, Data Lake), GCP (BigQuery, DataProc)  
+- **Tools:** Git, Docker, Airflow, dbt  
+
+⭐️ *Thanks for stopping by! Feel free to explore my repos or connect with me.*  
